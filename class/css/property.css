@@ -1,3 +1,25 @@
 p{
-    color:#da1c1c;
+    color: #da5da8;
 }
+
+#text-align{text-align: center;
+
+}
+.text-decoration{text-decoration:overline;}
+p.a{font-family:"Times New Roman", Times, serif;}
+.font{font-family: "±Ã¼­Ã¼", serif; font-size:20px; font-weight: bold;
+}
+.link-status:link
+.link-status:visited{
+    color:#000;
+    text-decoration: none;
+}
+.link-status:hover{
+    color;#f00;
+    font-size:30px;
+    font-decoration:underline;
+}
+
+
+
+
