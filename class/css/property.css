@@ -15,9 +15,23 @@ p.a{font-family:"Times New Roman", Times, serif;}
     text-decoration: none;
 }
 .link-status:hover{
-    color;#f00;
+    color:#f00;
     font-size:30px;
     font-decoration:underline;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    width:300px;
+
+}
+table, td, th{
+    border: 1px solid #000;
+}
+th, td{
+    height:50px;
 }
 
 
