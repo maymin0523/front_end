@@ -1,0 +1,60 @@
+.wrap{
+    width: 980px;
+    margin:0 auto;
+    height:1000px;
+}
+
+.header{
+    height:50px;
+    background: deepskyblue;
+}
+
+.container{
+    height:900px;
+}
+.container:after{
+    content:"";
+    display:block;
+    clear:both;
+}
+
+.lnb{
+    width:245px;
+    height:900px;
+    background: blueviolet;
+    float: left;
+
+}
+
+.contents{
+    width: 245px;
+    height:900px;
+    background: palevioletred;
+    float: left;
+
+
+}
+
+
+.contents2{
+    height: 900px;
+    width:490px;
+    float:right;
+
+}
+
+.up{
+    height: 450px;
+    background: lightgoldenrodyellow;
+
+}
+
+.down{
+    height:450px;
+    background: gainsboro;
+
+
+}
+.footer{
+    height:50px;
+    background: deepskyblue;}
